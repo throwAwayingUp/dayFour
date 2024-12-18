@@ -24,7 +24,12 @@ sum += content.count("SAMX")
 
 for i in twoDArray:
     for b in range(len(i)):
-        if twoDArray[b] == "X" and b 
+        if b >= 4 and b < len(twoDArray[i]) - 3 and :
+            if twoDArray[i][b] == "X":
+                if twoDArray
+
+
+# i know how to do this but i dont wanna like fr fr, f this.
 
 
 
